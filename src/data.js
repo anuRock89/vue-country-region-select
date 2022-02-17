@@ -6549,7 +6549,8 @@ export default [
     "countryShortCode": "IM",
     "regions": [
       {
-        "name": "Isle of Man"
+        "name": "Isle of Man",
+        "shortCode": "IM"
       }
     ]
   },
